@@ -98,6 +98,17 @@ lib/
   "registeredUids": []
 }
 ```
+## Images App
+<img width="519" height="1027" alt="Screenshot 2026-06-17 170825" src="https://github.com/user-attachments/assets/57c1c920-36aa-4138-8260-39688699b318" />
+<img width="502" height="1032" alt="Screenshot 2026-06-17 171449" src="https://github.com/user-attachments/assets/f06afae2-7115-4485-b8ff-6308209c15a7" />
+<img width="502" height="1032" alt="Screenshot 2026-06-17 171439" src="https://github.com/user-attachments/assets/8111e453-5ffb-4734-8116-aa146c603996" />
+<img width="502" height="1032" alt="Screenshot 2026-06-17 171425" src="https://github.com/user-attachments/assets/6a44e54d-9b0c-4421-9705-c3f533397787" />
+<img width="507" height="1031" alt="Screenshot 2026-06-17 171417" src="https://github.com/user-attachments/assets/c8bac9ac-de10-4354-a2af-cc24dcf4c50d" />
+
+## Video App 
+
+
+
 
 ## AI Assistance Disclosure
 
